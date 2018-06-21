@@ -10,6 +10,7 @@ public class string_new {
 
         String[] s= g.split(String.valueOf(c));
         System.out.println(s.length-1);
+        System.out.println("hi");
 
 
 
